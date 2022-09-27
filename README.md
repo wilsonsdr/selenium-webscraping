@@ -12,7 +12,7 @@ Este projeto eu desenvolvi para solucionar a dor do meu irmão, constantemente e
 
 - [Selenium](https://www.geeksforgeeks.org/how-to-install-selenium-in-python/), que é um framework utilizado para testar aplicações web de forma automatizada
 
-- [Geckodriver](https://chromedriver.chromium.org/), que é um mecanismo de navegador web utilizado para muitas aplicações
+- [Geckodriver](https://github.com/mozilla/geckodriver/releases/), que é um mecanismo de navegador web utilizado para muitas aplicações
 
 - [Navegador Firefox](https://www.mozilla.org/pt-BR/firefox/new/)
 

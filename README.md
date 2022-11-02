@@ -24,7 +24,7 @@ Baixado e instalado tudo corretamente, vamos ao que interessa 😃
 
 Com o Visual Studio Code aberto, crie um arquivo python. Em seguida é necessário adicionar algumas bibliotecas necessárias
 
-![Screenshot from 2022-09-14 19-17-28](https://user-images.githubusercontent.com/81364355/190272805-7b57e62d-23cd-460f-8261-e6701af0d7e7.png)
+<img src="https://user-images.githubusercontent.com/81364355/199601759-955e4f9f-e3af-4696-8af8-f2519769ee8a.png" alt="" width=1112>
 
 <br>
 

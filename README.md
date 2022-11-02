@@ -18,7 +18,7 @@ Este projeto eu desenvolvi para solucionar a dor do meu irmão, constantemente e
 
 <br>
 
-# Criando seu próprio script
+# Passo a passo
 
 Baixado e instalado tudo corretamente, vamos ao que interessa 😃
 

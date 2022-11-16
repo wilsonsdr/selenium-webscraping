@@ -12,7 +12,7 @@ Este projeto eu desenvolvi para solucionar a dor do meu irmão, constantemente e
 
 - [Selenium](https://www.geeksforgeeks.org/how-to-install-selenium-in-python/), que é um framework utilizado para testar aplicações web de forma automatizada
 
-- [Geckodriver](https://github.com/mozilla/geckodriver/releases/), que é um mecanismo de navegador web utilizado para muitas aplicações
+-  [Geckodriver](https://github.com/mozilla/geckodriver/releases/) versão utilizada `0.31.0`, utilizado para realização de testes de software e atualmente obrigatório para operar o Selenium Webdriver com o Firefox
 
 - [Navegador Firefox](https://www.mozilla.org/pt-BR/firefox/new/)
 
